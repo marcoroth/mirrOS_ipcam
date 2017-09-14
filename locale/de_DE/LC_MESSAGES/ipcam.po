@@ -1,0 +1,66 @@
+# mirr.OS IP-Cam Module v1.0.0
+# Copyright (C) 2017
+# Marco Roth <mr@glancr.de>, 2017
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: mirr.OS IP-Cam Module V1.0.0\n"
+"POT-Creation-Date: 2017-09-13 11:02+0200\n"
+"PO-Revision-Date: 2017-09-13 21:55+0200\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.3\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Last-Translator: Marco Roth <marco.roth@intergga.ch>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: de_DE\n"
+
+msgid "ipcam_title"
+msgstr "IP-Kamera"
+
+msgid "ipcam_description"
+msgstr "Zeigt ein MJPEG-Stream auf deinem Spiegel an"
+
+msgid "ipcam_reset_config"
+msgstr "Einstellungen zurücksetzen"
+
+msgid "ipcam_configure_in_settings"
+msgstr "Um das IP-Kamera Modul nutzen zu können, musst du es in den Einstellungen konfigurieren."
+
+msgid "ipcam_reset_config_message"
+msgstr "Bist du sicher, dass du deine IP-Kamera Einstellugnen zurücksetzten möchtest?"
+
+msgid "ipcam_reset_config_yes"
+msgstr "Ja, ich möchte meine Einstellungen zurücksetzten"
+
+msgid "ipcam_reset_config_no"
+msgstr "Nein"
+
+msgid "ipcam_url"
+msgstr "IP-Kamera URL (MJPEG-Stream)"
+
+msgid "ipcam_name"
+msgstr "Anzeigenamen"
+
+msgid "ipcam_options"
+msgstr "Darstellungs-Einstellungen"
+
+msgid "ipcam_max_width_100"
+msgstr "Zeige Bild nur so breit wie die Modulbreite"
+
+msgid "ipcam_max_height_100"
+msgstr "Zeige Bild nur so hoch wie die Modulhöhe"
+
+msgid "ipcam_overflow_y_hidden"
+msgstr "Schneide Bild an der Y-Achse ab"
+
+msgid "ipcam_overflow_x_hidden"
+msgstr "Schneide Bild an der X-Achse ab"
+
+msgid "ipcam_check_config"
+msgstr "Fehler: Es scheint, dass einige Einstellungen nicht korrekt sind. Bitte überprüfe deine Einstellungen."
+
+msgid "save"
+msgstr "Speichern"

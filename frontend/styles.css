@@ -1,0 +1,16 @@
+#ipcam_wrapper::-webkit-scrollbar {
+	display: none;
+}
+
+#ipcam_name {
+	background: white !important;
+	color: black;
+	padding: 5px;
+	width: inherit;
+	z-index: 100000000 !important;
+	min-width: 200px;
+}
+
+#ipcam_image {
+	z-index: -999999;
+}

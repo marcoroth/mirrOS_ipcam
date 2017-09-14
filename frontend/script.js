@@ -1,0 +1,1 @@
+// Silence. We don't need anything here right now, but the module installer depends on this file for integrity checks.
