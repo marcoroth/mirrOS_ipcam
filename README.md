@@ -20,7 +20,7 @@ Die Modul-Updates werden direkt via mirrOS-Backend installiert.
 ![Preview](assets/modulpreviews_ipcam.png)
 
 ## Weitere Informationen
-* [Spotify-Modul](https://glancr.de/module/home-automation/ipcam/)
+* [IP-Kamera Modul](https://glancr.de/module/home-automation/ipcam/)
 * [Glancr](https://glancr.de)
 * [mirrOS](https://glancr.de/#mirr_os)
 
