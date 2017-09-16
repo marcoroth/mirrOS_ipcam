@@ -3,11 +3,11 @@
 		"name": "ipcam",
 		"version": "1.0.0",
 		"description": "Zeigt ein MJPEG-Stream auf deinem Spiegel an",
-		"module_url": "https://glancr.de/module/home-automation/ipcam/",
-		"download_url": "http://api.glancr.de/update/moduleZips/ipcam-1.0.0.zip",
+		"module_url": "https://glancr.de/module/home-automation/ip-kamera/",
+		"download_url": "http://api.glancr.de/update/moduleZips/ip-kamera-1.0.0.zip",
 		"category": "home-automation",
 		"release_date": "2017-09-14",
-		"last_update": "2017-09-14"
+		"last_update": "2017-09-16"
 	},
 	"creator": {
 		"name": "Marco Roth",
