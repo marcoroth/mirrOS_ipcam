@@ -11,7 +11,7 @@ Das IP-Kamera Modul zeigt ein MJPEG-Stream in deinem glancr mirr.OS an.
 
 ## Download
 
-Du kannst dir [hier](https://glancr.de/module/home-automation/ipcam/) die neuste Version des Moduls herunterladen. <br>
+Du kannst dir [hier](https://glancr.de/module/home-automation/ip-kamera/) die neuste Version des Moduls herunterladen. <br>
 Die Modul-Updates werden direkt via mirrOS-Backend installiert.
 
 
@@ -20,7 +20,7 @@ Die Modul-Updates werden direkt via mirrOS-Backend installiert.
 ![Preview](assets/modulpreviews_ipcam.png)
 
 ## Weitere Informationen
-* [IP-Kamera Modul](https://glancr.de/module/home-automation/ipcam/)
+* [IP-Kamera Modul](https://glancr.de/module/home-automation/ip-kamera/)
 * [Glancr](https://glancr.de)
 * [mirrOS](https://glancr.de/#mirr_os)
 
